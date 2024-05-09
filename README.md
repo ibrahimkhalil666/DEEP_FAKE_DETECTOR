@@ -19,8 +19,7 @@ Visualize training histories and evaluate models on test datasets.
 
 Usage
 
-Prepare your dataset:
-Organize your dataset into train, validation, and test directories.
+DATASET:https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data 
 Ensure each directory contains subdirectories for each class (e.g., real and fake).
 Update the dataset paths:
 Modify the paths in the code to point to your dataset directories.
